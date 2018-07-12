@@ -11,11 +11,11 @@ sometimes don't need to add event listeners for every element.
 
 #### Explain how `this` works in JavaScript
 
-*Not answered yet*
+The 'this' keyword evaluates to the value of the ThisBinding of the current execution context.
 
 #### Explain how prototypal inheritance works
 
-*Not answered yet*
+Is a prototype of a working object instance. Objects inherit directly from other objects.
 
 #### What do you think of AMD vs CommonJS?
 
